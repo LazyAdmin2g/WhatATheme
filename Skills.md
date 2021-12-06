@@ -1,9 +1,20 @@
 ---
-title: Information
+title: Skills
 layout: page
 ---
 
-# This is heading 1
+# Languages
+* C#
+* SQL
+* Powershell
+
+# Skills
+* Hyper-V
+* Veeam Backup
+* Windows Server 2016
+* Exchange
+* Failovercluster Management
+
 ## This is heading 2
 ### This is heading 3
 #### This is heading 4
