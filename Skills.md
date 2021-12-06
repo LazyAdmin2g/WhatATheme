@@ -14,8 +14,8 @@ layout: page
 * Windows Server 2016
 * Exchange
 * Failovercluster Management
-_____________________________________________________
 
+<img src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="IT" width="400" height="300"></img>
 
 ## This is heading 2
 ### This is heading 3
