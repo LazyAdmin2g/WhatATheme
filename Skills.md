@@ -3,12 +3,15 @@ title: Skills
 layout: page
 ---
 
-<img src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Programming" width="400" height="300">
 # Languages
 * C#
 * SQL
 * Powershell
+<img src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Programming" width="400" height="300">
 
+<br>
+
+# Skills
 <img src="https://images.pexels.com/photos/2881232/pexels-photo-2881232.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Network" width="400" height="300">
 # Skills
 * Hyper-V
